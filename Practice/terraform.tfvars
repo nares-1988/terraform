@@ -1,0 +1,5 @@
+ami_value = "ami-037774efca2da0726"
+instance_type_value = "t3.micro"
+region_value = "us-east-2"
+subnet_cidr_block_value = "172.16.0.0/24"
+vpc_cidr_block_value = "172.16.0.0/16"
